@@ -1,4 +1,4 @@
-# 🗳️ ONline Voting Platform
+# 🗳️ Online Voting Platform
 
 A decentralized, transparent, and secure blockchain voting platform built on Avalanche Fuji Testnet.
 ## 🌟 Features
@@ -178,7 +178,10 @@ This project demonstrates:
 ## 👥 Team
 
 
-- [Shaz](https://github.com/khateebshaziya26)
-- [Dia](https://github.com/Dcodex26)
+- Mohammed Maahin (https://github.com/Mohammedmaahin)
+- N Bhanuprakash (https://github.com/BHANUPRAKASH-HUB)
+- Palavala Dinesh Kumar (https://github.com/dineshreddy8742)
+- Dinesh B (https://github.com/dineshdecent004-boop)
+- Ivasapuram Charan Kumar (https://guthub.com/CHERRY9642)
 
 
